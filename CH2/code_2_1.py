@@ -20,4 +20,4 @@ if __name__ == "__main__":
     labels = ['A', 'A', 'B', 'B']
     inX = [1.2, 1.2]
     k = 3
-    classify0(inX, data, labels, k)
+    print(classify0(inX, data, labels, k))
